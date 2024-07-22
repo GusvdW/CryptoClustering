@@ -1,1 +1,2 @@
 # CryptoClustering
+In this assignment we found the best value for k using the original scaled DataFrame, cluster cryptocurrencies with K-Means using the original scaled data, optimized clusters with principal component analysis, found the best value for k using the PCA data, clustered cryptocurrencies with K-Means using the PCA data and determined the weights of each feature on each principal component.
